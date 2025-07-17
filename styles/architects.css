@@ -170,6 +170,15 @@ footer{
  .our-features{
     margin-left: 20px;
  }
+  .footer {
+    padding: 15px;
+    font-size: 14px;
+    height: auto;
+    flex-direction: column;
+  }
+
+  .footer p {
+    line-height: 1.4;
 }
 
 @media screen and (min-width:576px) and (max-width:992px){
