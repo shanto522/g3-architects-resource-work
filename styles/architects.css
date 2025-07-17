@@ -130,6 +130,22 @@ main > section{
 .sponsor-companies img{
     filter: grayscale(100%);
 }
+footer{
+    background-color: rgba(255, 244, 231, 1);
+    max-width: 1440px;
+    padding: 20px;
+    margin: 130px auto;
+    border-radius: 8px;
+    display: flex;
+   text-align: center;
+     justify-content: center;
+   
+}
+.footer-text{
+    width: 620px;
+    
+   
+}
 
 @media screen and (max-width:576px) {
     .navbar,
